@@ -1,2 +1,3 @@
 # hello-world
 This is the start of my adventure into the world of coding with GitHub. It's a dangerous business going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to. Fall seven times, stand up eight
+I love to learn, travel, and develop the problem sovling skills of others and myself. I do not always follow the recipe of stress+rest=growth to the letter, but I find those moments after overcoming true challenges to fuel my reflection and search for the next opportunity in order to get one step closer to living this mantra which I am ever striving towards. Why so serious?
